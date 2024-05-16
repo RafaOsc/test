@@ -1,2 +1,2 @@
 # test
-This is a example of Hangman's game. 
+This is an example of Hangman's game. 
